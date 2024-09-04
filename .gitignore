@@ -44,3 +44,4 @@ Intermediate
 *.suo
 *.xcodeproj
 *.xcworkspace
+**/.DS_Store
